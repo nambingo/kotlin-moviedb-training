@@ -5,6 +5,10 @@
     <string name="nav_search">Search</string>
     <string name="nav_favo">Favorites</string>
     <string name="nav_rate">Rated</string>
+    <string name="nav_now_playing">Now Playing</string>
+    <string name="nav_popular">Popular</string>
+    <string name="nav_top_rated">Top Rated</string>
+    <string name="nav_upcoming">Upcoming</string>
 
     <string name="openDrawer">open_drawer</string>
     <string name="closeDrawer">close_drawer</string>
@@ -12,8 +16,9 @@
     <string name="personal">Personal</string>
 
     <string-array name="nav_item_activity_titles">
-        <item>Movies</item>
-        <item>Favorites</item>
-        <item>Rated</item>
+        <item>Now Playing</item>
+        <item>Popular</item>
+        <item>Top Rared</item>
+        <item>Upcoming</item>
     </string-array>
 </resources>
